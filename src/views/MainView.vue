@@ -17,7 +17,7 @@ import { defineComponent } from 'vue';
 
 //1 importar o componente
 
-import contador from '@/components/contador.vue';
+import contador from '../components/contador.vue';
 
 export default defineComponent({
   name: 'MainView',
